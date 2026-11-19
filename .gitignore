@@ -1,0 +1,6 @@
+node_modules/
+.DS_Store
+config/project.json
+# Les rapports contiennent des données de crawl propres à chaque client.
+reports/
+!reports/.gitkeep

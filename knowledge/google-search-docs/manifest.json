@@ -1,0 +1,1891 @@
+{
+  "fetchedAt": "2026-11-19T10:24:41.741Z",
+  "count": 225,
+  "pages": [
+    {
+      "title": "Search and SEO Blog",
+      "path": "blog.md",
+      "source": "https://developers.google.com/search/blog",
+      "lastUpdated": "2026-07-16",
+      "words": 223
+    },
+    {
+      "title": "Search Central Live is returning to Brazil in 2025",
+      "path": "blog/2025/01/search-central-live-brazil.md",
+      "source": "https://developers.google.com/search/blog/2025/01/search-central-live-brazil",
+      "lastUpdated": "",
+      "words": 374
+    },
+    {
+      "title": "Simplifying the visible URL element on mobile search results",
+      "path": "blog/2025/01/simplifying-breadcrumbs.md",
+      "source": "https://developers.google.com/search/blog/2025/01/simplifying-breadcrumbs",
+      "lastUpdated": "",
+      "words": 238
+    },
+    {
+      "title": "Robots Refresher: introducing a new series",
+      "path": "blog/2025/02/intro-robots-refresher.md",
+      "source": "https://developers.google.com/search/blog/2025/02/intro-robots-refresher",
+      "lastUpdated": "",
+      "words": 702
+    },
+    {
+      "title": "Search Central Live is going to New York City",
+      "path": "blog/2025/02/search-central-live-nyc.md",
+      "source": "https://developers.google.com/search/blog/2025/02/search-central-live-nyc",
+      "lastUpdated": "",
+      "words": 239
+    },
+    {
+      "title": "First Search Central Live in South Africa",
+      "path": "blog/2025/03/first-search-central-live-in-south-africa.md",
+      "source": "https://developers.google.com/search/blog/2025/03/first-search-central-live-in-south-africa",
+      "lastUpdated": "",
+      "words": 146
+    },
+    {
+      "title": "Robots Refresher: Future-proof Robots Exclusion Protocol",
+      "path": "blog/2025/03/robots-future.md",
+      "source": "https://developers.google.com/search/blog/2025/03/robots-future",
+      "lastUpdated": "",
+      "words": 626
+    },
+    {
+      "title": "Robots Refresher: page-level granularity",
+      "path": "blog/2025/03/robots-refresher-page-level.md",
+      "source": "https://developers.google.com/search/blog/2025/03/robots-refresher-page-level",
+      "lastUpdated": "",
+      "words": 960
+    },
+    {
+      "title": "Robots Refresher: robots.txt — a flexible way to control how machines explore your website",
+      "path": "blog/2025/03/robotstxt-flexible-way-to-control.md",
+      "source": "https://developers.google.com/search/blog/2025/03/robotstxt-flexible-way-to-control",
+      "lastUpdated": "",
+      "words": 691
+    },
+    {
+      "title": "Get Ready for Search Central Live Asia Pacific 2025",
+      "path": "blog/2025/03/search-central-live-deep-dive-apac-2025.md",
+      "source": "https://developers.google.com/search/blog/2025/03/search-central-live-deep-dive-apac-2025",
+      "lastUpdated": "",
+      "words": 804
+    },
+    {
+      "title": "Search Central Live is going to Madrid",
+      "path": "blog/2025/03/search-central-live-madrid.md",
+      "source": "https://developers.google.com/search/blog/2025/03/search-central-live-madrid",
+      "lastUpdated": "",
+      "words": 289
+    },
+    {
+      "title": "The Search Analytics API now supports hourly data",
+      "path": "blog/2025/04/san-hourly-data.md",
+      "source": "https://developers.google.com/search/blog/2025/04/san-hourly-data",
+      "lastUpdated": "",
+      "words": 457
+    },
+    {
+      "title": "Register now for Search Central Live Deep Dive 2025",
+      "path": "blog/2025/04/search-central-live-deep-dive-2025.md",
+      "source": "https://developers.google.com/search/blog/2025/04/search-central-live-deep-dive-2025",
+      "lastUpdated": "",
+      "words": 656
+    },
+    {
+      "title": "App deep links: connecting your website and app",
+      "path": "blog/2025/05/app-deep-links.md",
+      "source": "https://developers.google.com/search/blog/2025/05/app-deep-links",
+      "lastUpdated": "",
+      "words": 702
+    },
+    {
+      "title": "Top ways to ensure your content performs well in Google's AI experiences on Search",
+      "path": "blog/2025/05/succeeding-in-ai-search.md",
+      "source": "https://developers.google.com/search/blog/2025/05/succeeding-in-ai-search",
+      "lastUpdated": "",
+      "words": 908
+    },
+    {
+      "title": "Adding markup support for loyalty programs",
+      "path": "blog/2025/06/loyalty-program.md",
+      "source": "https://developers.google.com/search/blog/2025/06/loyalty-program",
+      "lastUpdated": "",
+      "words": 272
+    },
+    {
+      "title": "SCL Deep Dive APAC 2025: Community Speakers and a New Format",
+      "path": "blog/2025/06/scl-dd-apac-2025-news.md",
+      "source": "https://developers.google.com/search/blog/2025/06/scl-dd-apac-2025-news",
+      "lastUpdated": "",
+      "words": 902
+    },
+    {
+      "title": "The new Search Console Insights report is here",
+      "path": "blog/2025/06/search-console-insights.md",
+      "source": "https://developers.google.com/search/blog/2025/06/search-console-insights",
+      "lastUpdated": "",
+      "words": 448
+    },
+    {
+      "title": "Simplifying the search results page",
+      "path": "blog/2025/06/simplifying-search-results.md",
+      "source": "https://developers.google.com/search/blog/2025/06/simplifying-search-results",
+      "lastUpdated": "",
+      "words": 542
+    },
+    {
+      "title": "Introducing the Google Trends API (alpha): a new way to access Search Trends data",
+      "path": "blog/2025/07/trends-api.md",
+      "source": "https://developers.google.com/search/blog/2025/07/trends-api",
+      "lastUpdated": "",
+      "words": 647
+    },
+    {
+      "title": "Search Central Live is back to Mexico City",
+      "path": "blog/2025/08/search-central-live-mexico-2025.md",
+      "source": "https://developers.google.com/search/blog/2025/08/search-central-live-mexico-2025",
+      "lastUpdated": "",
+      "words": 241
+    },
+    {
+      "title": "Search Central Live Dubai 2025",
+      "path": "blog/2025/09/scl-dubai.md",
+      "source": "https://developers.google.com/search/blog/2025/09/scl-dubai",
+      "lastUpdated": "",
+      "words": 295
+    },
+    {
+      "title": "Search Central Live Hong Kong 2025: Event in Chinese focusing on international ecommerce",
+      "path": "blog/2025/09/scl-hkk.md",
+      "source": "https://developers.google.com/search/blog/2025/09/scl-hkk",
+      "lastUpdated": "",
+      "words": 214
+    },
+    {
+      "title": "Search Central Live Tokyo: The 2025 Return",
+      "path": "blog/2025/09/scl-tok.md",
+      "source": "https://developers.google.com/search/blog/2025/09/scl-tok",
+      "lastUpdated": "",
+      "words": 490
+    },
+    {
+      "title": "Announcing the store widget: build shopper confidence and drive sales",
+      "path": "blog/2025/09/store-widget.md",
+      "source": "https://developers.google.com/search/blog/2025/09/store-widget",
+      "lastUpdated": "",
+      "words": 342
+    },
+    {
+      "title": "Introducing Query groups in Search Console Insights",
+      "path": "blog/2025/10/search-console-query-groups.md",
+      "source": "https://developers.google.com/search/blog/2025/10/search-console-query-groups",
+      "lastUpdated": "",
+      "words": 492
+    },
+    {
+      "title": "Adding context to your Search Console data with custom annotations",
+      "path": "blog/2025/11/custom-chart-annotations.md",
+      "source": "https://developers.google.com/search/blog/2025/11/custom-chart-annotations",
+      "lastUpdated": "",
+      "words": 342
+    },
+    {
+      "title": "More ways to share your shipping and returns policies with Google",
+      "path": "blog/2025/11/more-ways-to-share-shipping.md",
+      "source": "https://developers.google.com/search/blog/2025/11/more-ways-to-share-shipping",
+      "lastUpdated": "",
+      "words": 616
+    },
+    {
+      "title": "Search Central Live is back in Zurich!",
+      "path": "blog/2025/11/search-central-live-zurich-is-back.md",
+      "source": "https://developers.google.com/search/blog/2025/11/search-central-live-zurich-is-back",
+      "lastUpdated": "",
+      "words": 246
+    },
+    {
+      "title": "Introducing the branded queries filter in Search Console",
+      "path": "blog/2025/11/search-console-branded-filter.md",
+      "source": "https://developers.google.com/search/blog/2025/11/search-console-branded-filter",
+      "lastUpdated": "",
+      "words": 646
+    },
+    {
+      "title": "Here's an update on our efforts to simplify the search results page",
+      "path": "blog/2025/11/update-on-our-efforts.md",
+      "source": "https://developers.google.com/search/blog/2025/11/update-on-our-efforts",
+      "lastUpdated": "",
+      "words": 233
+    },
+    {
+      "title": "Streamline your Search Console analysis with the new AI-powered configuration",
+      "path": "blog/2025/12/ai-powered-configuration.md",
+      "source": "https://developers.google.com/search/blog/2025/12/ai-powered-configuration",
+      "lastUpdated": "",
+      "words": 424
+    },
+    {
+      "title": "Search Central Live APAC 2025 Recap: A Note of Gratitude",
+      "path": "blog/2025/12/scl-eoy.md",
+      "source": "https://developers.google.com/search/blog/2025/12/scl-eoy",
+      "lastUpdated": "",
+      "words": 1749
+    },
+    {
+      "title": "Introducing social channels in Search Console",
+      "path": "blog/2025/12/social-channels-search-console.md",
+      "source": "https://developers.google.com/search/blog/2025/12/social-channels-search-console",
+      "lastUpdated": "",
+      "words": 371
+    },
+    {
+      "title": "Introducing weekly and monthly views in Search Console",
+      "path": "blog/2025/12/weekly-monthly-views-search-console.md",
+      "source": "https://developers.google.com/search/blog/2025/12/weekly-monthly-views-search-console",
+      "lastUpdated": "",
+      "words": 341
+    },
+    {
+      "title": "Search Central Live is coming back to South America",
+      "path": "blog/2026/01/search-central-live-brasil-argentina.md",
+      "source": "https://developers.google.com/search/blog/2026/01/search-central-live-brasil-argentina",
+      "lastUpdated": "",
+      "words": 328
+    },
+    {
+      "title": "Google's February 2026 Discover Core Update",
+      "path": "blog/2026/02/discover-core-update.md",
+      "source": "https://developers.google.com/search/blog/2026/02/discover-core-update",
+      "lastUpdated": "",
+      "words": 306
+    },
+    {
+      "title": "Inside Googlebot: demystifying crawling, fetching, and the bytes we process",
+      "path": "blog/2026/03/crawler-blog-post.md",
+      "source": "https://developers.google.com/search/blog/2026/03/crawler-blog-post",
+      "lastUpdated": "",
+      "words": 942
+    },
+    {
+      "title": "New Location for the Google Crawlers' IP Range Files",
+      "path": "blog/2026/03/crawler-ip-ranges.md",
+      "source": "https://developers.google.com/search/blog/2026/03/crawler-ip-ranges",
+      "lastUpdated": "",
+      "words": 119
+    },
+    {
+      "title": "Search Central Live Asia Pacific 2026: Get Ready for Sydney and more!",
+      "path": "blog/2026/03/scl-apac-2026.md",
+      "source": "https://developers.google.com/search/blog/2026/03/scl-apac-2026",
+      "lastUpdated": "",
+      "words": 619
+    },
+    {
+      "title": "Search Central Live is coming to Canada!",
+      "path": "blog/2026/03/scl-canada-2026.md",
+      "source": "https://developers.google.com/search/blog/2026/03/scl-canada-2026",
+      "lastUpdated": "",
+      "words": 271
+    },
+    {
+      "title": "Introducing a new spam policy for \"back button hijacking\"",
+      "path": "blog/2026/04/back-button-hijacking.md",
+      "source": "https://developers.google.com/search/blog/2026/04/back-button-hijacking",
+      "lastUpdated": "",
+      "words": 484
+    },
+    {
+      "title": "Search Central Live is Coming to Shanghai in 2026!",
+      "path": "blog/2026/04/scl-shanghai-2026.md",
+      "source": "https://developers.google.com/search/blog/2026/04/scl-shanghai-2026",
+      "lastUpdated": "",
+      "words": 111
+    },
+    {
+      "title": "A new resource for optimizing for generative AI in Google Search",
+      "path": "blog/2026/05/a-new-resource-for-optimizing.md",
+      "source": "https://developers.google.com/search/blog/2026/05/a-new-resource-for-optimizing",
+      "lastUpdated": "",
+      "words": 172
+    },
+    {
+      "title": "Introducing Search Generative AI performance reports in Search Console",
+      "path": "blog/2026/06/gen-ai-performance-reports.md",
+      "source": "https://developers.google.com/search/blog/2026/06/gen-ai-performance-reports",
+      "lastUpdated": "",
+      "words": 348
+    },
+    {
+      "title": "Help Us Pick the Next Stop in Europe for Search Central Live Deep Dive 2026!",
+      "path": "blog/2026/06/scl-deep-dive-europe-2026.md",
+      "source": "https://developers.google.com/search/blog/2026/06/scl-deep-dive-europe-2026",
+      "lastUpdated": "",
+      "words": 865
+    },
+    {
+      "title": "Platform properties roll out globally, plus a new social and video performance guide",
+      "path": "blog/2026/07/platform-properties-social-video-guide.md",
+      "source": "https://developers.google.com/search/blog/2026/07/platform-properties-social-video-guide",
+      "lastUpdated": "",
+      "words": 446
+    },
+    {
+      "title": "Search Central Deep Dive Europe 2026: Apparently we're going to Barcelona",
+      "path": "blog/2026/07/search-central-live-deep-dive-europe-2026.md",
+      "source": "https://developers.google.com/search/blog/2026/07/search-central-live-deep-dive-europe-2026",
+      "lastUpdated": "",
+      "words": 1083
+    },
+    {
+      "title": "See how content from social and video platforms performs on Google Search",
+      "path": "blog/2026/07/search-console-social-video-platforms.md",
+      "source": "https://developers.google.com/search/blog/2026/07/search-console-social-video-platforms",
+      "lastUpdated": "",
+      "words": 372
+    },
+    {
+      "title": "Update to the Site Reputation Policy",
+      "path": "blog/2026/08/update-site-reputation-policy.md",
+      "source": "https://developers.google.com/search/blog/2026/08/update-site-reputation-policy",
+      "lastUpdated": "",
+      "words": 330
+    },
+    {
+      "title": "Search Central Live Deep Dive Europe 2026: Meet the community speakers",
+      "path": "blog/2026/09/scl-dd-europe-2026-community-speakers.md",
+      "source": "https://developers.google.com/search/blog/2026/09/scl-dd-europe-2026-community-speakers",
+      "lastUpdated": "",
+      "words": 1153
+    },
+    {
+      "title": "Search Central Live India 2026: Bengaluru, We're Coming (For Real This Time)",
+      "path": "blog/2026/09/search-central-live-india-2026.md",
+      "source": "https://developers.google.com/search/blog/2026/09/search-central-live-india-2026",
+      "lastUpdated": "",
+      "words": 426
+    },
+    {
+      "title": "Search Central Live is coming to Bogota and Ciudad de México",
+      "path": "blog/2026/09/search-central-live-mexico-and-colombia.md",
+      "source": "https://developers.google.com/search/blog/2026/09/search-central-live-mexico-and-colombia",
+      "lastUpdated": "",
+      "words": 312
+    },
+    {
+      "title": "Announcing web multimodal Search performance reporting in Search Console",
+      "path": "blog/2026/09/web-multimodal-in-sc.md",
+      "source": "https://developers.google.com/search/blog/2026/09/web-multimodal-in-sc",
+      "lastUpdated": "",
+      "words": 257
+    },
+    {
+      "title": "Supporting a shared AI training control for websites",
+      "path": "blog/2026/10/ai-training-control.md",
+      "source": "https://developers.google.com/search/blog/2026/10/ai-training-control",
+      "lastUpdated": "",
+      "words": 401
+    },
+    {
+      "title": "New learning paths: curated YouTube playlists for Search fundamentals and Technical SEO",
+      "path": "blog/2026/10/seo-learning-paths.md",
+      "source": "https://developers.google.com/search/blog/2026/10/seo-learning-paths",
+      "lastUpdated": "",
+      "words": 350
+    },
+    {
+      "title": "Moving to a CDN without overwhelming your origin (or blocking Googlebot)",
+      "path": "blog/2026/11/crawling-cdn.md",
+      "source": "https://developers.google.com/search/blog/2026/11/crawling-cdn",
+      "lastUpdated": "",
+      "words": 1457
+    },
+    {
+      "title": "New filtering and reporting capabilities in the Search Analytics API",
+      "path": "blog/2026/11/search-analytics-api-update.md",
+      "source": "https://developers.google.com/search/blog/2026/11/search-analytics-api-update",
+      "lastUpdated": "",
+      "words": 378
+    },
+    {
+      "title": "Search Central Live in Zurich is back!",
+      "path": "blog/2026/11/search-central-live-zurich-2026.md",
+      "source": "https://developers.google.com/search/blog/2026/11/search-central-live-zurich-2026",
+      "lastUpdated": "",
+      "words": 231
+    },
+    {
+      "title": "Documentation to Improve SEO",
+      "path": "docs.md",
+      "source": "https://developers.google.com/search/docs",
+      "lastUpdated": "2025-02-04",
+      "words": 438
+    },
+    {
+      "title": "Google Search Appearance",
+      "path": "docs/appearance.md",
+      "source": "https://developers.google.com/search/docs/appearance",
+      "lastUpdated": "2026-09-16",
+      "words": 250
+    },
+    {
+      "title": "Ad Networks & Translation Search Features",
+      "path": "docs/appearance/ad-network-and-translation.md",
+      "source": "https://developers.google.com/search/docs/appearance/ad-network-and-translation",
+      "lastUpdated": "2025-12-10",
+      "words": 640
+    },
+    {
+      "title": "Regional differences in Search experience",
+      "path": "docs/appearance/aggregator-features.md",
+      "source": "https://developers.google.com/search/docs/appearance/aggregator-features",
+      "lastUpdated": "2026-11-09",
+      "words": 475
+    },
+    {
+      "title": "Aggregator unit in Google Search",
+      "path": "docs/appearance/aggregator-unit.md",
+      "source": "https://developers.google.com/search/docs/appearance/aggregator-unit",
+      "lastUpdated": "2026-11-09",
+      "words": 874
+    },
+    {
+      "title": "AI Features and Your Website",
+      "path": "docs/appearance/ai-features.md",
+      "source": "https://developers.google.com/search/docs/appearance/ai-features",
+      "lastUpdated": "2025-12-10",
+      "words": 1017
+    },
+    {
+      "title": "Interstitials and dialogs",
+      "path": "docs/appearance/avoid-intrusive-interstitials.md",
+      "source": "https://developers.google.com/search/docs/appearance/avoid-intrusive-interstitials",
+      "lastUpdated": "2025-12-10",
+      "words": 607
+    },
+    {
+      "title": "Google Search's Core Updates",
+      "path": "docs/appearance/core-updates.md",
+      "source": "https://developers.google.com/search/docs/appearance/core-updates",
+      "lastUpdated": "2025-12-10",
+      "words": 997
+    },
+    {
+      "title": "Understanding Core Web Vitals and Google search results",
+      "path": "docs/appearance/core-web-vitals.md",
+      "source": "https://developers.google.com/search/docs/appearance/core-web-vitals",
+      "lastUpdated": "2025-12-10",
+      "words": 267
+    },
+    {
+      "title": "Ecosystem Carousel in Google Search",
+      "path": "docs/appearance/ecosystem-carousel.md",
+      "source": "https://developers.google.com/search/docs/appearance/ecosystem-carousel",
+      "lastUpdated": "2026-09-08",
+      "words": 264
+    },
+    {
+      "title": "Enable Web Stories on Google",
+      "path": "docs/appearance/enable-web-stories.md",
+      "source": "https://developers.google.com/search/docs/appearance/enable-web-stories",
+      "lastUpdated": "2026-07-01",
+      "words": 634
+    },
+    {
+      "title": "Enriched and Interactive Search Results",
+      "path": "docs/appearance/enriched-search-results.md",
+      "source": "https://developers.google.com/search/docs/appearance/enriched-search-results",
+      "lastUpdated": "2025-12-10",
+      "words": 640
+    },
+    {
+      "title": "Add Business Details to Google",
+      "path": "docs/appearance/establish-business-details.md",
+      "source": "https://developers.google.com/search/docs/appearance/establish-business-details",
+      "lastUpdated": "2025-12-10",
+      "words": 648
+    },
+    {
+      "title": "Define Website Favicon for Search Results",
+      "path": "docs/appearance/favicon-in-search.md",
+      "source": "https://developers.google.com/search/docs/appearance/favicon-in-search",
+      "lastUpdated": "2026-10-27",
+      "words": 653
+    },
+    {
+      "title": "Featured Snippets and Your Website",
+      "path": "docs/appearance/featured-snippets.md",
+      "source": "https://developers.google.com/search/docs/appearance/featured-snippets",
+      "lastUpdated": "2025-12-10",
+      "words": 445
+    },
+    {
+      "title": "Flexible Sampling Guidelines",
+      "path": "docs/appearance/flexible-sampling.md",
+      "source": "https://developers.google.com/search/docs/appearance/flexible-sampling",
+      "lastUpdated": "2025-12-10",
+      "words": 752
+    },
+    {
+      "title": "Get on Discover",
+      "path": "docs/appearance/google-discover.md",
+      "source": "https://developers.google.com/search/docs/appearance/google-discover",
+      "lastUpdated": "2026-03-09",
+      "words": 977
+    },
+    {
+      "title": "Image SEO Best Practices",
+      "path": "docs/appearance/google-images.md",
+      "source": "https://developers.google.com/search/docs/appearance/google-images",
+      "lastUpdated": "2026-03-02",
+      "words": 1937
+    },
+    {
+      "title": "Job sites: aggregator carousel and refinement chip",
+      "path": "docs/appearance/job-sites.md",
+      "source": "https://developers.google.com/search/docs/appearance/job-sites",
+      "lastUpdated": "2026-09-11",
+      "words": 184
+    },
+    {
+      "title": "Package Tracking on Google",
+      "path": "docs/appearance/package-tracking.md",
+      "source": "https://developers.google.com/search/docs/appearance/package-tracking",
+      "lastUpdated": "2026-07-14",
+      "words": 438
+    },
+    {
+      "title": "Understanding Google Page Experience",
+      "path": "docs/appearance/page-experience.md",
+      "source": "https://developers.google.com/search/docs/appearance/page-experience",
+      "lastUpdated": "2026-09-22",
+      "words": 676
+    },
+    {
+      "title": "Places sites: aggregator carousel and refinement chip",
+      "path": "docs/appearance/places-sites.md",
+      "source": "https://developers.google.com/search/docs/appearance/places-sites",
+      "lastUpdated": "2026-09-11",
+      "words": 191
+    },
+    {
+      "title": "Guide to Preferred Sources in Google Search for Web Publishers",
+      "path": "docs/appearance/preferred-sources.md",
+      "source": "https://developers.google.com/search/docs/appearance/preferred-sources",
+      "lastUpdated": "2026-09-18",
+      "words": 1142
+    },
+    {
+      "title": "Add a Byline Date to Google Search Results",
+      "path": "docs/appearance/publication-dates.md",
+      "source": "https://developers.google.com/search/docs/appearance/publication-dates",
+      "lastUpdated": "2025-12-10",
+      "words": 595
+    },
+    {
+      "title": "A Guide to Google Search Ranking Systems",
+      "path": "docs/appearance/ranking-systems-guide.md",
+      "source": "https://developers.google.com/search/docs/appearance/ranking-systems-guide",
+      "lastUpdated": "2025-12-10",
+      "words": 1792
+    },
+    {
+      "title": "Google Search's Reviews System",
+      "path": "docs/appearance/reviews-system.md",
+      "source": "https://developers.google.com/search/docs/appearance/reviews-system",
+      "lastUpdated": "2025-12-10",
+      "words": 385
+    },
+    {
+      "title": "Add a Search Profile Badge to Your Website",
+      "path": "docs/appearance/search-profiles.md",
+      "source": "https://developers.google.com/search/docs/appearance/search-profiles",
+      "lastUpdated": "2026-09-16",
+      "words": 424
+    },
+    {
+      "title": "Site Names in Google Search",
+      "path": "docs/appearance/site-names.md",
+      "source": "https://developers.google.com/search/docs/appearance/site-names",
+      "lastUpdated": "2025-12-10",
+      "words": 2044
+    },
+    {
+      "title": "Learn About What Sitelinks Are",
+      "path": "docs/appearance/sitelinks.md",
+      "source": "https://developers.google.com/search/docs/appearance/sitelinks",
+      "lastUpdated": "2025-12-10",
+      "words": 249
+    },
+    {
+      "title": "How to Write Meta Descriptions",
+      "path": "docs/appearance/snippet.md",
+      "source": "https://developers.google.com/search/docs/appearance/snippet",
+      "lastUpdated": "2026-04-20",
+      "words": 1270
+    },
+    {
+      "title": "Search experiences in South Africa: badge and refinement chip",
+      "path": "docs/appearance/south-africa-features.md",
+      "source": "https://developers.google.com/search/docs/appearance/south-africa-features",
+      "lastUpdated": "2026-09-08",
+      "words": 269
+    },
+    {
+      "title": "Google Search Spam Updates",
+      "path": "docs/appearance/spam-updates.md",
+      "source": "https://developers.google.com/search/docs/appearance/spam-updates",
+      "lastUpdated": "2025-12-10",
+      "words": 207
+    },
+    {
+      "title": "Schema Markup Testing Tool",
+      "path": "docs/appearance/structured-data.md",
+      "source": "https://developers.google.com/search/docs/appearance/structured-data",
+      "lastUpdated": "",
+      "words": 162
+    },
+    {
+      "title": "Learn About Article Schema Markup",
+      "path": "docs/appearance/structured-data/article.md",
+      "source": "https://developers.google.com/search/docs/appearance/structured-data/article",
+      "lastUpdated": "2026-09-08",
+      "words": 1997
+    },
+    {
+      "title": "Book Schema for Google Search",
+      "path": "docs/appearance/structured-data/book.md",
+      "source": "https://developers.google.com/search/docs/appearance/structured-data/book",
+      "lastUpdated": "2026-11-18",
+      "words": 5394
+    },
+    {
+      "title": "How To Add Breadcrumb (BreadcrumbList) Markup",
+      "path": "docs/appearance/structured-data/breadcrumb.md",
+      "source": "https://developers.google.com/search/docs/appearance/structured-data/breadcrumb",
+      "lastUpdated": "2026-09-08",
+      "words": 2538
+    },
+    {
+      "title": "Carousel (ItemList) Structured Data",
+      "path": "docs/appearance/structured-data/carousel.md",
+      "source": "https://developers.google.com/search/docs/appearance/structured-data/carousel",
+      "lastUpdated": "2026-09-08",
+      "words": 3714
+    },
+    {
+      "title": "Carousels (Beta) Structured Data",
+      "path": "docs/appearance/structured-data/carousels-beta.md",
+      "source": "https://developers.google.com/search/docs/appearance/structured-data/carousels-beta",
+      "lastUpdated": "2026-09-11",
+      "words": 4089
+    },
+    {
+      "title": "Use Schema for Course List",
+      "path": "docs/appearance/structured-data/course.md",
+      "source": "https://developers.google.com/search/docs/appearance/structured-data/course",
+      "lastUpdated": "2026-09-08",
+      "words": 1704
+    },
+    {
+      "title": "Dataset Structured Data",
+      "path": "docs/appearance/structured-data/dataset.md",
+      "source": "https://developers.google.com/search/docs/appearance/structured-data/dataset",
+      "lastUpdated": "2026-09-08",
+      "words": 4389
+    },
+    {
+      "title": "Discussion Forum (DiscussionForumPosting, SocialMediaPosting) Schema Markup",
+      "path": "docs/appearance/structured-data/discussion-forum.md",
+      "source": "https://developers.google.com/search/docs/appearance/structured-data/discussion-forum",
+      "lastUpdated": "2026-09-08",
+      "words": 3995
+    },
+    {
+      "title": "Education Q&A Structured Data",
+      "path": "docs/appearance/structured-data/education-qa.md",
+      "source": "https://developers.google.com/search/docs/appearance/structured-data/education-qa",
+      "lastUpdated": "2026-09-08",
+      "words": 2279
+    },
+    {
+      "title": "Employer Rating (EmployerAggregateRating) Structured Data",
+      "path": "docs/appearance/structured-data/employer-rating.md",
+      "source": "https://developers.google.com/search/docs/appearance/structured-data/employer-rating",
+      "lastUpdated": "2026-09-08",
+      "words": 1331
+    },
+    {
+      "title": "Learn About Google Event Schema Markup",
+      "path": "docs/appearance/structured-data/event.md",
+      "source": "https://developers.google.com/search/docs/appearance/structured-data/event",
+      "lastUpdated": "2026-09-08",
+      "words": 5272
+    },
+    {
+      "title": "Fact Check (ClaimReview) Markup for Search",
+      "path": "docs/appearance/structured-data/factcheck.md",
+      "source": "https://developers.google.com/search/docs/appearance/structured-data/factcheck",
+      "lastUpdated": "2026-09-08",
+      "words": 2819
+    },
+    {
+      "title": "Generate Structured Data with JavaScript",
+      "path": "docs/appearance/structured-data/generate-structured-data-with-javascript.md",
+      "source": "https://developers.google.com/search/docs/appearance/structured-data/generate-structured-data-with-javascript",
+      "lastUpdated": "2025-12-10",
+      "words": 787
+    },
+    {
+      "title": "Google Images SEO: Image Metadata",
+      "path": "docs/appearance/structured-data/image-license-metadata.md",
+      "source": "https://developers.google.com/search/docs/appearance/structured-data/image-license-metadata",
+      "lastUpdated": "2025-12-10",
+      "words": 3267
+    },
+    {
+      "title": "Intro to How Structured Data Markup Works",
+      "path": "docs/appearance/structured-data/intro-structured-data.md",
+      "source": "https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data",
+      "lastUpdated": "2025-12-10",
+      "words": 1604
+    },
+    {
+      "title": "Learn About Job Posting Schema Markup",
+      "path": "docs/appearance/structured-data/job-posting.md",
+      "source": "https://developers.google.com/search/docs/appearance/structured-data/job-posting",
+      "lastUpdated": "2026-09-08",
+      "words": 7027
+    },
+    {
+      "title": "Local Business (LocalBusiness) Structured Data",
+      "path": "docs/appearance/structured-data/local-business.md",
+      "source": "https://developers.google.com/search/docs/appearance/structured-data/local-business",
+      "lastUpdated": "2026-09-08",
+      "words": 2950
+    },
+    {
+      "title": "Loyalty Program Structured Data (MemberProgram)",
+      "path": "docs/appearance/structured-data/loyalty-program.md",
+      "source": "https://developers.google.com/search/docs/appearance/structured-data/loyalty-program",
+      "lastUpdated": "2026-09-08",
+      "words": 1634
+    },
+    {
+      "title": "Math Solver (MathSolver) Structured Data",
+      "path": "docs/appearance/structured-data/math-solvers.md",
+      "source": "https://developers.google.com/search/docs/appearance/structured-data/math-solvers",
+      "lastUpdated": "2025-12-18",
+      "words": 2474
+    },
+    {
+      "title": "How To Add Merchant Listing Structured Data",
+      "path": "docs/appearance/structured-data/merchant-listing.md",
+      "source": "https://developers.google.com/search/docs/appearance/structured-data/merchant-listing",
+      "lastUpdated": "2026-09-08",
+      "words": 10225
+    },
+    {
+      "title": "Mark Up Movies with Structured Data",
+      "path": "docs/appearance/structured-data/movie.md",
+      "source": "https://developers.google.com/search/docs/appearance/structured-data/movie",
+      "lastUpdated": "2026-09-08",
+      "words": 1529
+    },
+    {
+      "title": "Organization Schema Markup",
+      "path": "docs/appearance/structured-data/organization.md",
+      "source": "https://developers.google.com/search/docs/appearance/structured-data/organization",
+      "lastUpdated": "2026-09-08",
+      "words": 2573
+    },
+    {
+      "title": "Subscription and Paywalled Content Markup",
+      "path": "docs/appearance/structured-data/paywalled-content.md",
+      "source": "https://developers.google.com/search/docs/appearance/structured-data/paywalled-content",
+      "lastUpdated": "2026-09-08",
+      "words": 1373
+    },
+    {
+      "title": "How To Add Product Snippet Structured Data",
+      "path": "docs/appearance/structured-data/product-snippet.md",
+      "source": "https://developers.google.com/search/docs/appearance/structured-data/product-snippet",
+      "lastUpdated": "2026-09-08",
+      "words": 4889
+    },
+    {
+      "title": "Product Variant Structured Data (ProductGroup, Product)",
+      "path": "docs/appearance/structured-data/product-variants.md",
+      "source": "https://developers.google.com/search/docs/appearance/structured-data/product-variants",
+      "lastUpdated": "2026-09-08",
+      "words": 4962
+    },
+    {
+      "title": "Intro to Product Structured Data on Google",
+      "path": "docs/appearance/structured-data/product.md",
+      "source": "https://developers.google.com/search/docs/appearance/structured-data/product",
+      "lastUpdated": "2025-12-10",
+      "words": 773
+    },
+    {
+      "title": "Profile Page (ProfilePage) Schema Markup",
+      "path": "docs/appearance/structured-data/profile-page.md",
+      "source": "https://developers.google.com/search/docs/appearance/structured-data/profile-page",
+      "lastUpdated": "2026-09-08",
+      "words": 2154
+    },
+    {
+      "title": "Schema for Q&A Pages (QAPage)",
+      "path": "docs/appearance/structured-data/qapage.md",
+      "source": "https://developers.google.com/search/docs/appearance/structured-data/qapage",
+      "lastUpdated": "2026-09-08",
+      "words": 4297
+    },
+    {
+      "title": "Recipe Schema Markup",
+      "path": "docs/appearance/structured-data/recipe.md",
+      "source": "https://developers.google.com/search/docs/appearance/structured-data/recipe",
+      "lastUpdated": "2026-09-08",
+      "words": 3760
+    },
+    {
+      "title": "Merchant Return Policy Structured Data (MerchantReturnPolicy)",
+      "path": "docs/appearance/structured-data/return-policy.md",
+      "source": "https://developers.google.com/search/docs/appearance/structured-data/return-policy",
+      "lastUpdated": "2026-09-08",
+      "words": 2541
+    },
+    {
+      "title": "Review Snippet (Review, AggregateRating) Structured Data",
+      "path": "docs/appearance/structured-data/review-snippet.md",
+      "source": "https://developers.google.com/search/docs/appearance/structured-data/review-snippet",
+      "lastUpdated": "2026-09-08",
+      "words": 4908
+    },
+    {
+      "title": "General Structured Data Guidelines",
+      "path": "docs/appearance/structured-data/sd-policies.md",
+      "source": "https://developers.google.com/search/docs/appearance/structured-data/sd-policies",
+      "lastUpdated": "2026-07-10",
+      "words": 1558
+    },
+    {
+      "title": "Structured Data Markup that Google Search Supports",
+      "path": "docs/appearance/structured-data/search-gallery.md",
+      "source": "https://developers.google.com/search/docs/appearance/structured-data/search-gallery",
+      "lastUpdated": "2026-10-16",
+      "words": 1184
+    },
+    {
+      "title": "Merchant Shipping Policy Structured Data (ShippingService)",
+      "path": "docs/appearance/structured-data/shipping-policy.md",
+      "source": "https://developers.google.com/search/docs/appearance/structured-data/shipping-policy",
+      "lastUpdated": "2026-09-08",
+      "words": 4204
+    },
+    {
+      "title": "Software App (SoftwareApplication) Schema",
+      "path": "docs/appearance/structured-data/software-app.md",
+      "source": "https://developers.google.com/search/docs/appearance/structured-data/software-app",
+      "lastUpdated": "2026-09-08",
+      "words": 1357
+    },
+    {
+      "title": "Speakable (BETA) Schema Markup",
+      "path": "docs/appearance/structured-data/speakable.md",
+      "source": "https://developers.google.com/search/docs/appearance/structured-data/speakable",
+      "lastUpdated": "2026-09-08",
+      "words": 1129
+    },
+    {
+      "title": "Vacation Rental Schema Markup",
+      "path": "docs/appearance/structured-data/vacation-rental.md",
+      "source": "https://developers.google.com/search/docs/appearance/structured-data/vacation-rental",
+      "lastUpdated": "2026-09-08",
+      "words": 3181
+    },
+    {
+      "title": "Video (VideoObject, Clip, BroadcastEvent) Schema Markup",
+      "path": "docs/appearance/structured-data/video.md",
+      "source": "https://developers.google.com/search/docs/appearance/structured-data/video",
+      "lastUpdated": "2026-09-24",
+      "words": 5288
+    },
+    {
+      "title": "Supplier unit in Google Search",
+      "path": "docs/appearance/supplier-unit.md",
+      "source": "https://developers.google.com/search/docs/appearance/supplier-unit",
+      "lastUpdated": "2026-11-09",
+      "words": 259
+    },
+    {
+      "title": "Influencing Title Links in Google Search",
+      "path": "docs/appearance/title-link.md",
+      "source": "https://developers.google.com/search/docs/appearance/title-link",
+      "lastUpdated": "2025-12-10",
+      "words": 1871
+    },
+    {
+      "title": "Top Places List Optimization",
+      "path": "docs/appearance/top-places-list.md",
+      "source": "https://developers.google.com/search/docs/appearance/top-places-list",
+      "lastUpdated": "2025-12-10",
+      "words": 204
+    },
+    {
+      "title": "Translated Google Search Results",
+      "path": "docs/appearance/translated-results.md",
+      "source": "https://developers.google.com/search/docs/appearance/translated-results",
+      "lastUpdated": "2025-12-10",
+      "words": 417
+    },
+    {
+      "title": "About the UGC Fresh Data Program",
+      "path": "docs/appearance/ugc-fresh-data-program.md",
+      "source": "https://developers.google.com/search/docs/appearance/ugc-fresh-data-program",
+      "lastUpdated": "2026-10-08",
+      "words": 465
+    },
+    {
+      "title": "Video SEO Best Practices",
+      "path": "docs/appearance/video.md",
+      "source": "https://developers.google.com/search/docs/appearance/video",
+      "lastUpdated": "2025-12-18",
+      "words": 3029
+    },
+    {
+      "title": "Visual Elements Gallery of Google Search",
+      "path": "docs/appearance/visual-elements-gallery.md",
+      "source": "https://developers.google.com/search/docs/appearance/visual-elements-gallery",
+      "lastUpdated": "2026-02-04",
+      "words": 1627
+    },
+    {
+      "title": "Google Web Story Content Policies",
+      "path": "docs/appearance/web-stories-content-policy.md",
+      "source": "https://developers.google.com/search/docs/appearance/web-stories-content-policy",
+      "lastUpdated": "2025-12-10",
+      "words": 380
+    },
+    {
+      "title": "Best Practices for Creating Web Stories",
+      "path": "docs/appearance/web-stories-creation-best-practices.md",
+      "source": "https://developers.google.com/search/docs/appearance/web-stories-creation-best-practices",
+      "lastUpdated": "2026-06-09",
+      "words": 1436
+    },
+    {
+      "title": "Google Crawling and Indexing",
+      "path": "docs/crawling-indexing.md",
+      "source": "https://developers.google.com/search/docs/crawling-indexing",
+      "lastUpdated": "2025-12-10",
+      "words": 464
+    },
+    {
+      "title": "Redirects and Google Search",
+      "path": "docs/crawling-indexing/301-redirects.md",
+      "source": "https://developers.google.com/search/docs/crawling-indexing/301-redirects",
+      "lastUpdated": "2026-11-16",
+      "words": 1616
+    },
+    {
+      "title": "About AMP on Google Search",
+      "path": "docs/crawling-indexing/amp.md",
+      "source": "https://developers.google.com/search/docs/crawling-indexing/amp",
+      "lastUpdated": "2026-07-01",
+      "words": 521
+    },
+    {
+      "title": "Enhance AMP Content in Google Search",
+      "path": "docs/crawling-indexing/amp/enhance-amp.md",
+      "source": "https://developers.google.com/search/docs/crawling-indexing/amp/enhance-amp",
+      "lastUpdated": "2026-07-01",
+      "words": 638
+    },
+    {
+      "title": "How To Remove your AMP Pages From Search",
+      "path": "docs/crawling-indexing/amp/remove-amp.md",
+      "source": "https://developers.google.com/search/docs/crawling-indexing/amp/remove-amp",
+      "lastUpdated": "2026-07-01",
+      "words": 796
+    },
+    {
+      "title": "Validate your AMP Pages",
+      "path": "docs/crawling-indexing/amp/validate-amp.md",
+      "source": "https://developers.google.com/search/docs/crawling-indexing/amp/validate-amp",
+      "lastUpdated": "2026-07-01",
+      "words": 312
+    },
+    {
+      "title": "Ask Google to Recrawl Your Website",
+      "path": "docs/crawling-indexing/ask-google-to-recrawl.md",
+      "source": "https://developers.google.com/search/docs/crawling-indexing/ask-google-to-recrawl",
+      "lastUpdated": "2025-12-10",
+      "words": 279
+    },
+    {
+      "title": "Block Search Indexing with noindex",
+      "path": "docs/crawling-indexing/block-indexing.md",
+      "source": "https://developers.google.com/search/docs/crawling-indexing/block-indexing",
+      "lastUpdated": "2025-12-10",
+      "words": 680
+    },
+    {
+      "title": "Fix Canonicalization Issues",
+      "path": "docs/crawling-indexing/canonicalization-troubleshooting.md",
+      "source": "https://developers.google.com/search/docs/crawling-indexing/canonicalization-troubleshooting",
+      "lastUpdated": "2026-08-21",
+      "words": 733
+    },
+    {
+      "title": "What is URL Canonicalization",
+      "path": "docs/crawling-indexing/canonicalization.md",
+      "source": "https://developers.google.com/search/docs/crawling-indexing/canonicalization",
+      "lastUpdated": "2026-08-20",
+      "words": 581
+    },
+    {
+      "title": "How to Specify a Canonical with rel=\"canonical\" and Other Methods",
+      "path": "docs/crawling-indexing/consolidate-duplicate-urls.md",
+      "source": "https://developers.google.com/search/docs/crawling-indexing/consolidate-duplicate-urls",
+      "lastUpdated": "2026-07-10",
+      "words": 2114
+    },
+    {
+      "title": "Control the Content You Share on Search",
+      "path": "docs/crawling-indexing/control-what-you-share.md",
+      "source": "https://developers.google.com/search/docs/crawling-indexing/control-what-you-share",
+      "lastUpdated": "2026-10-21",
+      "words": 649
+    },
+    {
+      "title": "What Is Googlebot",
+      "path": "docs/crawling-indexing/googlebot.md",
+      "source": "https://developers.google.com/search/docs/crawling-indexing/googlebot",
+      "lastUpdated": "2026-02-03",
+      "words": 580
+    },
+    {
+      "title": "File Types Indexable by Google",
+      "path": "docs/crawling-indexing/indexable-file-types.md",
+      "source": "https://developers.google.com/search/docs/crawling-indexing/indexable-file-types",
+      "lastUpdated": "2026-02-03",
+      "words": 353
+    },
+    {
+      "title": "Dynamic Rendering as a workaround",
+      "path": "docs/crawling-indexing/javascript/dynamic-rendering.md",
+      "source": "https://developers.google.com/search/docs/crawling-indexing/javascript/dynamic-rendering",
+      "lastUpdated": "2025-12-10",
+      "words": 508
+    },
+    {
+      "title": "Fix Search-Related JavaScript Problems",
+      "path": "docs/crawling-indexing/javascript/fix-search-javascript.md",
+      "source": "https://developers.google.com/search/docs/crawling-indexing/javascript/fix-search-javascript",
+      "lastUpdated": "2025-12-18",
+      "words": 1262
+    },
+    {
+      "title": "Understand JavaScript SEO Basics",
+      "path": "docs/crawling-indexing/javascript/javascript-seo-basics.md",
+      "source": "https://developers.google.com/search/docs/crawling-indexing/javascript/javascript-seo-basics",
+      "lastUpdated": "2026-03-04",
+      "words": 2119
+    },
+    {
+      "title": "Fix Lazy-Loaded Website Content",
+      "path": "docs/crawling-indexing/javascript/lazy-loading.md",
+      "source": "https://developers.google.com/search/docs/crawling-indexing/javascript/lazy-loading",
+      "lastUpdated": "2025-12-10",
+      "words": 538
+    },
+    {
+      "title": "Keep Redacted Information out of Google",
+      "path": "docs/crawling-indexing/keep-redacted-information-out.md",
+      "source": "https://developers.google.com/search/docs/crawling-indexing/keep-redacted-information-out",
+      "lastUpdated": "2025-12-10",
+      "words": 933
+    },
+    {
+      "title": "SEO Link Best Practices for Google",
+      "path": "docs/crawling-indexing/links-crawlable.md",
+      "source": "https://developers.google.com/search/docs/crawling-indexing/links-crawlable",
+      "lastUpdated": "2025-12-10",
+      "words": 1166
+    },
+    {
+      "title": "Mobile-first Indexing Best Practices",
+      "path": "docs/crawling-indexing/mobile/mobile-sites-mobile-first-indexing.md",
+      "source": "https://developers.google.com/search/docs/crawling-indexing/mobile/mobile-sites-mobile-first-indexing",
+      "lastUpdated": "2025-12-10",
+      "words": 3281
+    },
+    {
+      "title": "Temporarily Pause Or Disable Website",
+      "path": "docs/crawling-indexing/pause-online-business.md",
+      "source": "https://developers.google.com/search/docs/crawling-indexing/pause-online-business",
+      "lastUpdated": "2025-12-10",
+      "words": 1477
+    },
+    {
+      "title": "Remove your own site's images from Google Search",
+      "path": "docs/crawling-indexing/prevent-images-on-your-page.md",
+      "source": "https://developers.google.com/search/docs/crawling-indexing/prevent-images-on-your-page",
+      "lastUpdated": "2025-12-10",
+      "words": 708
+    },
+    {
+      "title": "Qualify Outbound Links for SEO",
+      "path": "docs/crawling-indexing/qualify-outbound-links.md",
+      "source": "https://developers.google.com/search/docs/crawling-indexing/qualify-outbound-links",
+      "lastUpdated": "2025-12-10",
+      "words": 389
+    },
+    {
+      "title": "Remove Your Site Info from Google",
+      "path": "docs/crawling-indexing/remove-information.md",
+      "source": "https://developers.google.com/search/docs/crawling-indexing/remove-information",
+      "lastUpdated": "2025-12-10",
+      "words": 355
+    },
+    {
+      "title": "Robots Meta Tags Specifications",
+      "path": "docs/crawling-indexing/robots-meta-tag.md",
+      "source": "https://developers.google.com/search/docs/crawling-indexing/robots-meta-tag",
+      "lastUpdated": "2026-03-24",
+      "words": 2923
+    },
+    {
+      "title": "Robots.txt Introduction and Guide",
+      "path": "docs/crawling-indexing/robots/intro.md",
+      "source": "https://developers.google.com/search/docs/crawling-indexing/robots/intro",
+      "lastUpdated": "2025-12-10",
+      "words": 906
+    },
+    {
+      "title": "Changing Your Web Hosting and SEO",
+      "path": "docs/crawling-indexing/site-move-no-url-changes.md",
+      "source": "https://developers.google.com/search/docs/crawling-indexing/site-move-no-url-changes",
+      "lastUpdated": "2025-12-10",
+      "words": 995
+    },
+    {
+      "title": "Site Moves and Migrations",
+      "path": "docs/crawling-indexing/site-move-with-url-changes.md",
+      "source": "https://developers.google.com/search/docs/crawling-indexing/site-move-with-url-changes",
+      "lastUpdated": "2026-08-20",
+      "words": 3719
+    },
+    {
+      "title": "Build and Submit a Sitemap",
+      "path": "docs/crawling-indexing/sitemaps/build-sitemap.md",
+      "source": "https://developers.google.com/search/docs/crawling-indexing/sitemaps/build-sitemap",
+      "lastUpdated": "2026-07-08",
+      "words": 1887
+    },
+    {
+      "title": "How to Combine Sitemap Extensions",
+      "path": "docs/crawling-indexing/sitemaps/combine-sitemap-extensions.md",
+      "source": "https://developers.google.com/search/docs/crawling-indexing/sitemaps/combine-sitemap-extensions",
+      "lastUpdated": "2025-12-10",
+      "words": 450
+    },
+    {
+      "title": "Image Sitemaps",
+      "path": "docs/crawling-indexing/sitemaps/image-sitemaps.md",
+      "source": "https://developers.google.com/search/docs/crawling-indexing/sitemaps/image-sitemaps",
+      "lastUpdated": "2025-12-10",
+      "words": 363
+    },
+    {
+      "title": "Manage Your Sitemaps With Sitemap Index Files",
+      "path": "docs/crawling-indexing/sitemaps/large-sitemaps.md",
+      "source": "https://developers.google.com/search/docs/crawling-indexing/sitemaps/large-sitemaps",
+      "lastUpdated": "2025-12-10",
+      "words": 447
+    },
+    {
+      "title": "Create a News Sitemap",
+      "path": "docs/crawling-indexing/sitemaps/news-sitemap.md",
+      "source": "https://developers.google.com/search/docs/crawling-indexing/sitemaps/news-sitemap",
+      "lastUpdated": "2025-12-10",
+      "words": 710
+    },
+    {
+      "title": "What Is a Sitemap",
+      "path": "docs/crawling-indexing/sitemaps/overview.md",
+      "source": "https://developers.google.com/search/docs/crawling-indexing/sitemaps/overview",
+      "lastUpdated": "2025-12-10",
+      "words": 550
+    },
+    {
+      "title": "Video Sitemaps and Examples",
+      "path": "docs/crawling-indexing/sitemaps/video-sitemaps.md",
+      "source": "https://developers.google.com/search/docs/crawling-indexing/sitemaps/video-sitemaps",
+      "lastUpdated": "2026-05-20",
+      "words": 2507
+    },
+    {
+      "title": "Meta Tags and Attributes that Google Supports",
+      "path": "docs/crawling-indexing/special-tags.md",
+      "source": "https://developers.google.com/search/docs/crawling-indexing/special-tags",
+      "lastUpdated": "2025-12-10",
+      "words": 1224
+    },
+    {
+      "title": "Troubleshoot Google Search Crawling Errors",
+      "path": "docs/crawling-indexing/troubleshoot-crawling-errors.md",
+      "source": "https://developers.google.com/search/docs/crawling-indexing/troubleshoot-crawling-errors",
+      "lastUpdated": "2026-11-16",
+      "words": 2662
+    },
+    {
+      "title": "URL Structure Best Practices for Google Search",
+      "path": "docs/crawling-indexing/url-structure.md",
+      "source": "https://developers.google.com/search/docs/crawling-indexing/url-structure",
+      "lastUpdated": "2026-10-21",
+      "words": 1480
+    },
+    {
+      "title": "Valid Page Metadata for Google Search",
+      "path": "docs/crawling-indexing/valid-page-metadata.md",
+      "source": "https://developers.google.com/search/docs/crawling-indexing/valid-page-metadata",
+      "lastUpdated": "2025-12-10",
+      "words": 234
+    },
+    {
+      "title": "A/B Testing Best Practices for Search",
+      "path": "docs/crawling-indexing/website-testing.md",
+      "source": "https://developers.google.com/search/docs/crawling-indexing/website-testing",
+      "lastUpdated": "2025-12-10",
+      "words": 959
+    },
+    {
+      "title": "Google Search Essentials (formerly Webmaster Guidelines)",
+      "path": "docs/essentials.md",
+      "source": "https://developers.google.com/search/docs/essentials",
+      "lastUpdated": "2025-12-10",
+      "words": 480
+    },
+    {
+      "title": "Spam Policies for Google Web Search",
+      "path": "docs/essentials/spam-policies.md",
+      "source": "https://developers.google.com/search/docs/essentials/spam-policies",
+      "lastUpdated": "2026-08-28",
+      "words": 5111
+    },
+    {
+      "title": "Google Search Technical Requirements",
+      "path": "docs/essentials/technical.md",
+      "source": "https://developers.google.com/search/docs/essentials/technical",
+      "lastUpdated": "2025-12-18",
+      "words": 371
+    },
+    {
+      "title": "Google's Guide to Optimizing for Generative AI Features on Google Search",
+      "path": "docs/fundamentals/ai-optimization-guide.md",
+      "source": "https://developers.google.com/search/docs/fundamentals/ai-optimization-guide",
+      "lastUpdated": "2026-07-10",
+      "words": 2688
+    },
+    {
+      "title": "Creating Helpful, Reliable, People-First Content",
+      "path": "docs/fundamentals/creating-helpful-content.md",
+      "source": "https://developers.google.com/search/docs/fundamentals/creating-helpful-content",
+      "lastUpdated": "2026-10-05",
+      "words": 2314
+    },
+    {
+      "title": "Do You Need an SEO? Tips for Hiring an SEO",
+      "path": "docs/fundamentals/do-i-need-seo.md",
+      "source": "https://developers.google.com/search/docs/fundamentals/do-i-need-seo",
+      "lastUpdated": "2026-06-05",
+      "words": 1247
+    },
+    {
+      "title": "How to Get Information on Google",
+      "path": "docs/fundamentals/get-on-google.md",
+      "source": "https://developers.google.com/search/docs/fundamentals/get-on-google",
+      "lastUpdated": "2025-12-10",
+      "words": 1015
+    },
+    {
+      "title": "SEO Guide for Web Developers",
+      "path": "docs/fundamentals/get-started-developers.md",
+      "source": "https://developers.google.com/search/docs/fundamentals/get-started-developers",
+      "lastUpdated": "2025-12-10",
+      "words": 1146
+    },
+    {
+      "title": "Technical SEO Techniques and Strategies",
+      "path": "docs/fundamentals/get-started.md",
+      "source": "https://developers.google.com/search/docs/fundamentals/get-started",
+      "lastUpdated": "2025-12-18",
+      "words": 1874
+    },
+    {
+      "title": "In-Depth Guide to How Google Search Works",
+      "path": "docs/fundamentals/how-search-works.md",
+      "source": "https://developers.google.com/search/docs/fundamentals/how-search-works",
+      "lastUpdated": "2025-12-18",
+      "words": 1147
+    },
+    {
+      "title": "SEO Starter Guide: The Basics",
+      "path": "docs/fundamentals/seo-starter-guide.md",
+      "source": "https://developers.google.com/search/docs/fundamentals/seo-starter-guide",
+      "lastUpdated": "2025-12-10",
+      "words": 4150
+    },
+    {
+      "title": "Google Search's Guidance on Third-Party SEO Tools & Advice",
+      "path": "docs/fundamentals/third-party-seo.md",
+      "source": "https://developers.google.com/search/docs/fundamentals/third-party-seo",
+      "lastUpdated": "2026-06-05",
+      "words": 409
+    },
+    {
+      "title": "Google Search's Guidance on Generative AI Content on Your Website",
+      "path": "docs/fundamentals/using-gen-ai-content.md",
+      "source": "https://developers.google.com/search/docs/fundamentals/using-gen-ai-content",
+      "lastUpdated": "2026-10-01",
+      "words": 400
+    },
+    {
+      "title": "Analyze Social and Video Content in Search Console",
+      "path": "docs/monitor-debug/analyze-social-video-content.md",
+      "source": "https://developers.google.com/search/docs/monitor-debug/analyze-social-video-content",
+      "lastUpdated": "2026-07-29",
+      "words": 1525
+    },
+    {
+      "title": "How to Create a Search Console Bubble Chart",
+      "path": "docs/monitor-debug/bubble-chart-analysis.md",
+      "source": "https://developers.google.com/search/docs/monitor-debug/bubble-chart-analysis",
+      "lastUpdated": "2025-12-10",
+      "words": 1460
+    },
+    {
+      "title": "Debug Google Search Traffic Drops",
+      "path": "docs/monitor-debug/debugging-search-traffic-drops.md",
+      "source": "https://developers.google.com/search/docs/monitor-debug/debugging-search-traffic-drops",
+      "lastUpdated": "2025-12-10",
+      "words": 2036
+    },
+    {
+      "title": "Using Search Console and Google Analytics Data for SEO",
+      "path": "docs/monitor-debug/google-analytics-search-console.md",
+      "source": "https://developers.google.com/search/docs/monitor-debug/google-analytics-search-console",
+      "lastUpdated": "2026-01-07",
+      "words": 2722
+    },
+    {
+      "title": "Identify Google Search Traffic in Analytics and Logs",
+      "path": "docs/monitor-debug/identify-google-search-traffic.md",
+      "source": "https://developers.google.com/search/docs/monitor-debug/identify-google-search-traffic",
+      "lastUpdated": "2026-11-12",
+      "words": 788
+    },
+    {
+      "title": "Prevent User-Generated Spam on Your Site",
+      "path": "docs/monitor-debug/prevent-abuse.md",
+      "source": "https://developers.google.com/search/docs/monitor-debug/prevent-abuse",
+      "lastUpdated": "2026-10-26",
+      "words": 795
+    },
+    {
+      "title": "How To Use Search Console",
+      "path": "docs/monitor-debug/search-console-start.md",
+      "source": "https://developers.google.com/search/docs/monitor-debug/search-console-start",
+      "lastUpdated": "2025-12-10",
+      "words": 836
+    },
+    {
+      "title": "Debugging with Google Search Operators",
+      "path": "docs/monitor-debug/search-operators.md",
+      "source": "https://developers.google.com/search/docs/monitor-debug/search-operators",
+      "lastUpdated": "2025-12-10",
+      "words": 234
+    },
+    {
+      "title": "How To Use the Site Search Operator",
+      "path": "docs/monitor-debug/search-operators/all-search-site.md",
+      "source": "https://developers.google.com/search/docs/monitor-debug/search-operators/all-search-site",
+      "lastUpdated": "2025-12-10",
+      "words": 402
+    },
+    {
+      "title": "Google Images Search Operators",
+      "path": "docs/monitor-debug/search-operators/image-search.md",
+      "source": "https://developers.google.com/search/docs/monitor-debug/search-operators/image-search",
+      "lastUpdated": "2025-12-10",
+      "words": 204
+    },
+    {
+      "title": "Prevent Abuse on Your Site",
+      "path": "docs/monitor-debug/security.md",
+      "source": "https://developers.google.com/search/docs/monitor-debug/security",
+      "lastUpdated": "2025-12-10",
+      "words": 165
+    },
+    {
+      "title": "Malware and Unwanted Software Overview",
+      "path": "docs/monitor-debug/security/malware.md",
+      "source": "https://developers.google.com/search/docs/monitor-debug/security/malware",
+      "lastUpdated": "2025-12-10",
+      "words": 1821
+    },
+    {
+      "title": "How To Prevent Malware Infection",
+      "path": "docs/monitor-debug/security/prevent-malware.md",
+      "source": "https://developers.google.com/search/docs/monitor-debug/security/prevent-malware",
+      "lastUpdated": "2025-12-10",
+      "words": 832
+    },
+    {
+      "title": "Google Safe Browsing Repeat Offenders Policy",
+      "path": "docs/monitor-debug/security/safe-browsing-repeat-offenders.md",
+      "source": "https://developers.google.com/search/docs/monitor-debug/security/safe-browsing-repeat-offenders",
+      "lastUpdated": "2025-12-10",
+      "words": 139
+    },
+    {
+      "title": "Social Engineering (Phishing and Deceptive Sites)",
+      "path": "docs/monitor-debug/security/social-engineering.md",
+      "source": "https://developers.google.com/search/docs/monitor-debug/security/social-engineering",
+      "lastUpdated": "2025-12-10",
+      "words": 1386
+    },
+    {
+      "title": "Get started with Google Trends",
+      "path": "docs/monitor-debug/trends-start.md",
+      "source": "https://developers.google.com/search/docs/monitor-debug/trends-start",
+      "lastUpdated": "2025-12-10",
+      "words": 1895
+    },
+    {
+      "title": "SEO Best Practices for Ecommerce Sites",
+      "path": "docs/specialty/ecommerce.md",
+      "source": "https://developers.google.com/search/docs/specialty/ecommerce",
+      "lastUpdated": "2025-12-10",
+      "words": 377
+    },
+    {
+      "title": "Ecommerce URL Structure Best Practices",
+      "path": "docs/specialty/ecommerce/designing-a-url-structure-for-ecommerce-sites.md",
+      "source": "https://developers.google.com/search/docs/specialty/ecommerce/designing-a-url-structure-for-ecommerce-sites",
+      "lastUpdated": "2025-12-10",
+      "words": 1076
+    },
+    {
+      "title": "Ecommerce Website Navigation Structure",
+      "path": "docs/specialty/ecommerce/help-google-understand-your-ecommerce-site-structure.md",
+      "source": "https://developers.google.com/search/docs/specialty/ecommerce/help-google-understand-your-ecommerce-site-structure",
+      "lastUpdated": "2025-12-10",
+      "words": 526
+    },
+    {
+      "title": "How To Launch an Ecommerce Site on Google",
+      "path": "docs/specialty/ecommerce/how-to-launch-an-ecommerce-website.md",
+      "source": "https://developers.google.com/search/docs/specialty/ecommerce/how-to-launch-an-ecommerce-website",
+      "lastUpdated": "2025-12-10",
+      "words": 923
+    },
+    {
+      "title": "Structured Data for Ecommerce Sites",
+      "path": "docs/specialty/ecommerce/include-structured-data-relevant-to-ecommerce.md",
+      "source": "https://developers.google.com/search/docs/specialty/ecommerce/include-structured-data-relevant-to-ecommerce",
+      "lastUpdated": "2025-12-10",
+      "words": 520
+    },
+    {
+      "title": "Pagination Best Practices for Google",
+      "path": "docs/specialty/ecommerce/pagination-and-incremental-page-loading.md",
+      "source": "https://developers.google.com/search/docs/specialty/ecommerce/pagination-and-incremental-page-loading",
+      "lastUpdated": "2025-12-10",
+      "words": 1075
+    },
+    {
+      "title": "Share Your Product Data With Google",
+      "path": "docs/specialty/ecommerce/share-your-product-data-with-google.md",
+      "source": "https://developers.google.com/search/docs/specialty/ecommerce/share-your-product-data-with-google",
+      "lastUpdated": "2025-12-10",
+      "words": 877
+    },
+    {
+      "title": "Ecommerce Product Data and Content on Google",
+      "path": "docs/specialty/ecommerce/where-ecommerce-data-can-appear-on-google.md",
+      "source": "https://developers.google.com/search/docs/specialty/ecommerce/where-ecommerce-data-can-appear-on-google",
+      "lastUpdated": "2025-12-10",
+      "words": 643
+    },
+    {
+      "title": "How To Write Reviews",
+      "path": "docs/specialty/ecommerce/write-high-quality-reviews.md",
+      "source": "https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews",
+      "lastUpdated": "2025-12-10",
+      "words": 462
+    },
+    {
+      "title": "SEO Guidelines for Explicit Content",
+      "path": "docs/specialty/explicit/guidelines.md",
+      "source": "https://developers.google.com/search/docs/specialty/explicit/guidelines",
+      "lastUpdated": "2026-09-17",
+      "words": 1551
+    },
+    {
+      "title": "My Site is Incorrectly Flagged as Explicit in Google Search",
+      "path": "docs/specialty/explicit/troubleshooting.md",
+      "source": "https://developers.google.com/search/docs/specialty/explicit/troubleshooting",
+      "lastUpdated": "2025-12-10",
+      "words": 896
+    },
+    {
+      "title": "Overview of International and Multilingual Site Topics",
+      "path": "docs/specialty/international.md",
+      "source": "https://developers.google.com/search/docs/specialty/international",
+      "lastUpdated": "2025-12-10",
+      "words": 163
+    },
+    {
+      "title": "How Google Crawls Locale-Adaptive Pages",
+      "path": "docs/specialty/international/locale-adaptive-pages.md",
+      "source": "https://developers.google.com/search/docs/specialty/international/locale-adaptive-pages",
+      "lastUpdated": "2025-12-10",
+      "words": 254
+    },
+    {
+      "title": "Localized Versions of your Pages",
+      "path": "docs/specialty/international/localized-versions.md",
+      "source": "https://developers.google.com/search/docs/specialty/international/localized-versions",
+      "lastUpdated": "2026-09-21",
+      "words": 2381
+    },
+    {
+      "title": "Managing Multi-Regional and Multilingual Sites",
+      "path": "docs/specialty/international/managing-multi-regional-sites.md",
+      "source": "https://developers.google.com/search/docs/specialty/international/managing-multi-regional-sites",
+      "lastUpdated": "2025-12-10",
+      "words": 1539
+    },
+    {
+      "title": "Latest Google Search Documentation Updates",
+      "path": "updates.md",
+      "source": "https://developers.google.com/search/updates",
+      "lastUpdated": "2026-11-18",
+      "words": 18616
+    }
+  ],
+  "removedOrRedirected": [
+    {
+      "from": "/search/updates/ranking",
+      "to": "/products/rGHU1u87FJnkP6W2GwMi/history"
+    },
+    {
+      "from": "/search/updates/core-updates",
+      "to": "/search/docs/appearance/core-updates"
+    },
+    {
+      "from": "/search/docs/guides/javascript-seo-basics",
+      "to": "/search/docs/crawling-indexing/javascript/javascript-seo-basics"
+    },
+    {
+      "from": "/search/docs/crawling-indexing/overview-google-crawlers",
+      "to": "/crawling/docs/crawlers-fetchers/overview-google-crawlers"
+    },
+    {
+      "from": "/search/docs/crawling-indexing/google-common-crawlers",
+      "to": "/crawling/docs/crawlers-fetchers/google-common-crawlers"
+    },
+    {
+      "from": "/search/docs/advanced/guidelines/report-spam",
+      "to": "/search/help/report-quality-issues"
+    },
+    {
+      "from": "/search/docs/crawling-indexing/http-network-errors",
+      "to": "/crawling/docs/troubleshooting/http-status-codes"
+    },
+    {
+      "from": "/search/docs/crawling-indexing/robots/robots_txt",
+      "to": "/crawling/docs/robots-txt/robots-txt-spec"
+    },
+    {
+      "from": "/search/docs/crawling-indexing/robots/create-robots-txt",
+      "to": "/crawling/docs/robots-txt/create-robots-txt"
+    },
+    {
+      "from": "/search/docs/crawling-indexing/robots/submit-updated-robots-txt",
+      "to": "/crawling/docs/robots-txt/submit-updated-robots-txt"
+    },
+    {
+      "from": "/search/docs/crawling-indexing/read-aloud-user-agent",
+      "to": "/crawling/docs/crawlers-fetchers/read-aloud-user-agent"
+    },
+    {
+      "from": "/search/docs/crawling-indexing/safesearch",
+      "to": "/search/docs/specialty/explicit/guidelines"
+    },
+    {
+      "from": "/search/docs/guides/fix-search-javascript",
+      "to": "/search/docs/crawling-indexing/javascript/fix-search-javascript"
+    },
+    {
+      "from": "/search/docs/guides/generate-structured-data-with-javascript",
+      "to": "/search/docs/appearance/structured-data/generate-structured-data-with-javascript"
+    },
+    {
+      "from": "/search/docs/guides/debug",
+      "to": "/search/help/debug"
+    },
+    {
+      "from": "/search/docs/guides/lazy-loading",
+      "to": "/search/docs/crawling-indexing/javascript/lazy-loading"
+    },
+    {
+      "from": "/search/docs/crawling-indexing/large-site-managing-crawl-budget",
+      "to": "/crawling/docs/crawl-budget"
+    },
+    {
+      "from": "/search/docs/crawling-indexing/verifying-googlebot",
+      "to": "/crawling/docs/crawlers-fetchers/verify-google-requests"
+    },
+    {
+      "from": "/search/docs/appearance/structured-data/faqpage",
+      "to": "/search/updates"
+    },
+    {
+      "from": "/search/docs/appearance/structured-data/practice-problems",
+      "to": "/search/updates"
+    },
+    {
+      "from": "/search/docs/crawling-indexing/google-user-triggered-fetchers",
+      "to": "/crawling/docs/crawlers-fetchers/google-user-triggered-fetchers"
+    },
+    {
+      "from": "/search/docs/appearance/structured-data/course-info",
+      "to": "/search/updates"
+    },
+    {
+      "from": "/search/docs/appearance/structured-data/estimated-salary",
+      "to": "/search/updates"
+    },
+    {
+      "from": "/search/docs/appearance/structured-data/learning-video",
+      "to": "/search/updates"
+    },
+    {
+      "from": "/search/docs/appearance/structured-data/vehicle-listing",
+      "to": "/search/updates"
+    },
+    {
+      "from": "/search/docs/appearance/structured-data/special-announcements",
+      "to": "/search/updates"
+    },
+    {
+      "from": "/search/docs/crawling-indexing/crawling-managing-faceted-navigation",
+      "to": "/crawling/docs/faceted-navigation"
+    },
+    {
+      "from": "/search/docs/crawling-indexing/google-producer",
+      "to": "/crawling/docs/crawlers-fetchers/google-user-triggered-fetchers"
+    },
+    {
+      "from": "/search/docs/appearance/ai-overviews",
+      "to": "/search/docs/appearance/ai-features"
+    },
+    {
+      "from": "/search/docs/appearance/structured-data/home-activities",
+      "to": "/search/updates"
+    },
+    {
+      "from": "/search/docs/appearance/signed-exchange",
+      "to": "/search/updates"
+    },
+    {
+      "from": "/search/updates/helpful-content-update",
+      "to": "/search/docs/appearance/ranking-systems-guide"
+    },
+    {
+      "from": "/search/docs/appearance/structured-data/how-to",
+      "to": "/search/updates"
+    },
+    {
+      "from": "/search/docs/advanced/structured-data/review-snippet",
+      "to": "/search/docs/appearance/structured-data/review-snippet"
+    },
+    {
+      "from": "/search/docs/crawling-indexing/mobile/web-light",
+      "to": "/search/updates"
+    },
+    {
+      "from": "/search/updates/spam-updates",
+      "to": "/search/docs/appearance/spam-updates"
+    },
+    {
+      "from": "/search/docs/crawling-indexing/mobile",
+      "to": "/search/docs/crawling-indexing/mobile/mobile-sites-mobile-first-indexing"
+    },
+    {
+      "from": "/search/docs/appearance/mobile-recharge",
+      "to": "/search/updates"
+    },
+    {
+      "from": "/search/updates/product-reviews-update",
+      "to": "/search/docs/appearance/reviews-system"
+    },
+    {
+      "from": "/search/docs/advanced/crawling/special-tags",
+      "to": "/search/docs/crawling-indexing/special-tags"
+    },
+    {
+      "from": "/search/docs/advanced/mobile/google-discover",
+      "to": "/search/docs/appearance/google-discover"
+    },
+    {
+      "from": "/search/docs/appearance/structured-data/job-training",
+      "to": "/search/updates"
+    },
+    {
+      "from": "/search/docs/advanced/guidelines/valid-html",
+      "to": "/search/docs/crawling-indexing/valid-page-metadata"
+    },
+    {
+      "from": "/search/docs/advanced/robots/robots_meta_tag",
+      "to": "/search/docs/crawling-indexing/robots-meta-tag"
+    },
+    {
+      "from": "/search/docs/appearance/structured-data/logo",
+      "to": "/search/docs/appearance/structured-data/organization"
+    },
+    {
+      "from": "/search/docs/advanced/structured-data",
+      "to": "/search/docs/appearance/structured-data"
+    },
+    {
+      "from": "/search/docs/appearance/structured-data/sitelinks-searchbox",
+      "to": "/search/updates"
+    },
+    {
+      "from": "/search/docs/appearance/structured-data/critic-review",
+      "to": "/search/updates"
+    },
+    {
+      "from": "/search/docs/advanced/guidelines/bloggers",
+      "to": "/search/docs/fundamentals/seo-starter-guide"
+    },
+    {
+      "from": "/search/docs/basics/get-started",
+      "to": "/search/docs/fundamentals/seo-starter-guide"
+    },
+    {
+      "from": "/search/docs/beginner/get-started",
+      "to": "/search/docs/fundamentals/seo-starter-guide"
+    },
+    {
+      "from": "/search/docs/beginner/search-console",
+      "to": "/search/docs/monitor-debug/search-console-start"
+    },
+    {
+      "from": "/search/docs/advanced/guidelines/search-console",
+      "to": "/search/docs/monitor-debug/search-console-start"
+    },
+    {
+      "from": "/search/docs/advanced/crawling/block-access-overview",
+      "to": "/search/docs/crawling-indexing"
+    },
+    {
+      "from": "/search/docs/crawling-indexing/what-is-site-move",
+      "to": "/search/docs/crawling-indexing/site-move-with-url-changes"
+    },
+    {
+      "from": "/search/docs/guides/enable-web-stories",
+      "to": "/search/docs/appearance/enable-web-stories"
+    },
+    {
+      "from": "/search/docs/guides/web-stories-creation-best-practices",
+      "to": "/search/docs/appearance/web-stories-creation-best-practices"
+    },
+    {
+      "from": "/search/docs/guides/web-stories-content-policy",
+      "to": "/search/docs/appearance/web-stories-content-policy"
+    },
+    {
+      "from": "/search/docs/crawling-indexing/reduce-crawl-rate",
+      "to": "/crawling/docs/crawlers-fetchers/reduce-crawl-rate"
+    },
+    {
+      "from": "/search/docs/guides/submit-URLs",
+      "to": "/search/docs/crawling-indexing/ask-google-to-recrawl"
+    },
+    {
+      "from": "/search/docs/guides/prototype",
+      "to": "/search/docs/appearance/structured-data/intro-structured-data"
+    },
+    {
+      "from": "/search/docs/guides/covid-19-resources",
+      "to": "/search/help"
+    },
+    {
+      "from": "/search/docs/advanced/guidelines/tag-child-directed-treatment",
+      "to": "/webmasters/answer/3221080"
+    },
+    {
+      "from": "/search/docs/appearance/search-result-features",
+      "to": "/search/docs/appearance/visual-elements-gallery"
+    },
+    {
+      "from": "/search/docs/guides/search-gallery",
+      "to": "/search/docs/appearance/structured-data/search-gallery"
+    },
+    {
+      "from": "/search/docs/guides/sd-policies",
+      "to": "/search/docs/appearance/structured-data/sd-policies"
+    },
+    {
+      "from": "/search/docs/guides/enhance-amp",
+      "to": "/search/docs/crawling-indexing/amp/enhance-amp"
+    },
+    {
+      "from": "/search/docs/guides/about-amp",
+      "to": "/search/docs/crawling-indexing/amp"
+    },
+    {
+      "from": "/search/docs/guides/rendering",
+      "to": "/search/docs/crawling-indexing/javascript/fix-search-javascript"
+    },
+    {
+      "from": "/search/docs/guides/reduce-crawl-rate",
+      "to": "/crawling/docs/crawlers-fetchers/reduce-crawl-rate"
+    },
+    {
+      "from": "/search/docs/advanced/guidelines/cloaking",
+      "to": "/search/docs/essentials/spam-policies"
+    },
+    {
+      "from": "/search/updates/reviews-update",
+      "to": "/search/docs/appearance/reviews-system"
+    },
+    {
+      "from": "/search/docs/guides/mark-up-listings",
+      "to": "/search/docs/appearance/structured-data/carousel"
+    },
+    {
+      "from": "/search/docs/advanced/guidelines/qualify-outbound-links",
+      "to": "/search/docs/crawling-indexing/qualify-outbound-links"
+    },
+    {
+      "from": "/search/docs/advanced/guidelines/sneaky-redirects",
+      "to": "/search/docs/essentials/spam-policies"
+    },
+    {
+      "from": "/search/docs/advanced/guidelines/paid-links",
+      "to": "/search/docs/essentials/spam-policies"
+    },
+    {
+      "from": "/search/docs/guides/intro-structured-data",
+      "to": "/search/docs/appearance/structured-data/intro-structured-data"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "seo-method",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Méthode SEO complète : audit du site, analyse des blogs concurrents, base de connaissance Google Search à jour, fichiers LLM (llms.txt).",
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "audit": "NODE_USE_ENV_PROXY=1 node --no-warnings src/audit/site-audit.js",
+    "competitors": "NODE_USE_ENV_PROXY=1 node --no-warnings src/competitors/blog-analysis.js",
+    "google-docs": "NODE_USE_ENV_PROXY=1 node --no-warnings src/google-docs/sync.js",
+    "llms": "NODE_USE_ENV_PROXY=1 node --no-warnings src/llm/generate-llms.js",
+    "all": "npm run audit && npm run competitors && npm run llms"
+  },
+  "dependencies": {
+    "cheerio": "1.0.0",
+    "turndown": "7.2.0",
+    "turndown-plugin-gfm": "1.0.2"
+  }
+}

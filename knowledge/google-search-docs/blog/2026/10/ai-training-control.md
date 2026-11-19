@@ -1,0 +1,28 @@
+---
+title: "Supporting a shared AI training control for websites"
+source: https://developers.google.com/search/blog/2026/10/ai-training-control
+last_updated: 
+fetched: 2026-11-19
+---
+
+# Supporting a shared AI training control for websites
+
+Friday, October 30, 2026
+
+Today, we're announcing our plans to support [a shared AI training control](https://datatracker.ietf.org/doc/draft-kelley-aipref-training-preference-signal/) in robots.txt. This will help websites express their AI training preferences across multiple AI providers in a single step and is based on work from the AIPREF working group at the Internet Engineering Task Force (IETF). This builds on our long history of providing website owners with clear controls, including through [Google-Extended](https://developers.google.com/crawling/docs/crawlers-fetchers/google-common-crawlers#google-extended), the AI training control we've offered since 2023.
+
+## How the new control will work
+
+Instead of managing separate instructions for every AI developer, website owners will be able to use a shared 'policy token' within robots.txt to set broad preferences across participating AI providers.
+
+When a website uses this policy token to opt out of training in its robots.txt file (and Google-Extended is not explicitly specified), Google plans to interpret that as if the publisher had disallowed [Google-Extended](https://developers.google.com/crawling/docs/crawlers-fetchers/google-common-crawlers#google-extended). Other AI providers can handle it similarly, making it easy for website owners to opt out across all providers, or to pick and choose.
+
+Existing company-specific controls will continue to function alongside this new joint signal. So website owners can easily express a broad choice using the industry signal, while also tailoring their instructions to individual AI developers like Google through controls such as Google-Extended. Websites that specifically allow Google-Extended are eligible to appear in responses and receive clicks via grounding in Gemini Apps.
+
+The new mechanism brings website owners the benefit of the AI training definition developed at the IETF while multistakeholder discussions continue on the rest of the AIPREF vocabulary. As more industry players adopt this mechanism, it gives website owners early and expanding access to the preference signal.
+
+This draft proposal reflects feedback from publishers, civil society groups, regulators and other stakeholders that have called for industry-wide controls on AI training. Support for this proposal across major AI providers will enable a future standard that is cross-industry, robust, and durable. This proposal is consistent with the EU Code of Practice for General Purpose AI (GPAI) Model Providers under the EU AI Act that recognizes robots.txt as a primary method for web publishers to express machine-readable preferences. We'll continue to work with these stakeholders to refine and standardize this through the IETF working group.
+
+We aim to support this new control along with other AI providers in 2027, and will provide updates on our progress.
+
+Posted by [John Mueller](https://developers.google.com/search/blog/authors/john-mueller), Google Search Advocate

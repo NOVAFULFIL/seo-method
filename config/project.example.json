@@ -1,0 +1,18 @@
+{
+  "site": "https://www.example.com",
+  "language": "fr",
+  "country": "FR",
+  "brand": "Example",
+  "description": "Une phrase qui décrit l'activité, utilisée pour llms.txt.",
+  "maxPages": 300,
+  "competitors": [
+    "https://www.concurrent-1.com",
+    "https://www.concurrent-2.com",
+    "https://www.concurrent-3.com"
+  ],
+  "competitorMaxArticles": 200,
+  "blogPathHints": ["/blog", "/articles", "/actualites", "/guides", "/ressources", "/conseils", "/magazine", "/news"],
+  "seedKeywords": ["mot-clé principal", "mot-clé secondaire"],
+  "userAgent": "SEOMethodBot/1.0 (+site audit)",
+  "delayMs": 400
+}
